@@ -11,6 +11,7 @@ A simple PHP library boilerplate that allow you to quickly start building your n
 - You have to update the `composer.json` file
 - Update the `phpunit.xml` file
 - I recommend the elegant PHP Testing Framework [Pest](https://pestphp.com/) for unit testing 😎
+- Feel free to contribute
 
 ## Contributors
 
